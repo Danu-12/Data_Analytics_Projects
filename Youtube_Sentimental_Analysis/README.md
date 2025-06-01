@@ -48,7 +48,7 @@ This project analyzes YouTube comments to classify viewer sentiment (positive, n
 
 ## 📊 Sample Visualizations
 
-| WordCloud of Comments | Sentiment Distribution Chart |
+| WordCloud of Comments | Average Likes by Sentiments |
 |-------------------------------|----------------------------------|
 | ![WordCloud](https://i.postimg.cc/Gtwqtc6F/1.png) | ![Sentiment](https://i.postimg.cc/ZnWJczcD/7.png) |
 
