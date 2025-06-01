@@ -1,1 +1,0 @@
-This project, "YouTube Sentiment Analysis: Jake Paul vs. Mike Tyson Trailer," analyzes YouTube comments to determine public sentiment (positive, negative, neutral) regarding the fight trailer. Using Python libraries like pandas, nltk, and seaborn, the project performs data cleaning, sentiment classi
