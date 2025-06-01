@@ -25,5 +25,16 @@ This project explores consumer behavior during the Diwali festival using a retai
 ## 📈 Outcomes
 The project reveals how data can support more targeted campaigns, smarter inventory decisions, and better understanding of regional buying behavior during Indian festivals.
 
+---
+
+## 🚀 Author
+
+**Harender Singh**  
+Translating Data-Insights into Business Solutions
+
+Business/Data Analyst | Python, SQL , EDA, Vizualization  
+🔗 [LinkedIn](www.linkedin.com/in/harender-singh-d90)  
+🔗 [Portfolio_Website](https://www.datascienceportfol.io/harendrawork8)
+
 
 
