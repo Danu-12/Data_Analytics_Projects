@@ -46,8 +46,8 @@ Here are some key projects that exemplify my analytical capabilities:
 
 Throughout these projects, I've utilized and honed skills in:
 
-- **Data Analysis**: Python (Pandas, NumPy), Excel.
-- **Data Visualization**: Matplotlib, Seaborn,
+- **Data Analysis**: Python, MySQL, R, Excel, Google Analytics
+- **Data Visualization**: Matplotlib, Seaborn, Power BI
 - **Statistical Analysis**: Hypothesis testing, regression analysis.
 - **NLP**:  NLTK for text analysis.
 
