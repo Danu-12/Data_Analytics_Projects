@@ -59,10 +59,10 @@ I am a Business Analyst with a strong foundation in data analysis and a passion 
 
 ---
 
-## 📫 Connect with Me
+## 📬 Contact  
+**LinkedIn:** www.linkedin.com/in/harender-singh-d90
 
-- [**LinkedIn**](www.linkedin.com/in/harender-singh-d90)
-- [**Portfolio_Website**](https://www.datascienceportfol.io/harendrawork8)
+**Portfolio:** https://www.datascienceportfol.io/harendrawork8
 
 Feel free to reach out for collaborations, discussions, or opportunities!
 
