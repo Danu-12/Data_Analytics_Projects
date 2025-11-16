@@ -89,5 +89,11 @@ This project showcases how NLP  can extract meaningful insights from unstructure
 Translating Data-Insights into Business Solutions
 
 Business/Data Analyst | Python, SQL , EDA, Vizualization  
-🔗 [LinkedIn](www.linkedin.com/in/harender-singh-d90)  
-🔗 [Portfolio_Website](https://www.datascienceportfol.io/harendrawork8)
+
+## 📬 Contact  
+**LinkedIn:** www.linkedin.com/in/harender-singh-d90
+
+**Portfolio:** https://www.datascienceportfol.io/harendrawork8
+
+---
+
